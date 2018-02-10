@@ -1,0 +1,34 @@
+$orange:  #ff6600;
+
+// Hover text color
+.hover-orange:hover,
+.hover-orange:focus 		{ color: $orange; }
+
+// Custom Borders
+.bb-custom-after:after {
+  content: '';
+  display: block;
+  height: 1px;
+  margin: 30px auto;
+  width: 50px;
+}
+.bb-custom-before:before {
+  content: '';
+  display: block;
+  height: 1px;
+  margin: 30px auto;
+  width: 50px;
+}
+.bb-custom-orange-after:after {
+  background: #ff6600;
+}
+.bb-custom-orange-before:before {
+  background: #ff6600;
+}
+
+// Gradient
+.gradient-turquoise {
+  background-image: -webkit-gradient( linear, left top, left bottom, from(rgba(72,213,196,1)), to(rgba(0,113,166,1)) );
+  background-image: -webkit-linear-gradient(top, rgba(72,213,196,1), rgba(0,113,166,1));
+  background-image: linear-gradient(to bottom, rgba(72,213,196,1), rgba(0,113,166,1));
+}
