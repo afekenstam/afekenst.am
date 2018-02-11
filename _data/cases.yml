@@ -1,0 +1,38 @@
+- case: redesign
+  title: Redesign
+  subtitle: Responsive website
+  date: 2017
+  client: A Swedish construction equipment manufacturer
+  team: The clients internal team, <a href="http://apartment5.se/">Apartment5</a>, Makeable Sthlm, Spoon agency
+  objective: Understand user needs better to inform the new site design
+  role: UX research, impact mapping, low-fi wireframes
+  description: The website started as a test campaign site in 2014 as part of an initiative from the Manufacturer that aims to bring green construction higher on the agenda of the whole industry. There's three parts to the initiative and as in most projects, doing research before you start building something will save you time and resources further on - so we needed to find out as much as possible about what the target group needs from a site like this. These are the three pillars that the initiative stands on
+  research: The Manufacturer funds green construction industry research such as carbon output calculators
+  media: By highlighting and showcasing positive green news from the construction industry in general the Manufacturer hopes to inspire and bring awareness
+  industry: The Manufacturer arranges events with international participation from industry competitors and collaborators to improve the green construction dialogue and hopefully in the end global environmental improvements.
+  scope: Scope definition and requirement specification involving all team members led by Apartment5
+  review_research: Review of existing site - I did a subjective UX best practice review, Apartment5 a technical review and Makeable Sthlm an SEO review. All team members contributes with inspiration and general research
+  user_research: The Manufacturer recruited a mixed group of researchers, construction industry and media professionals. I interviewed them and then performed usability tests on the existing, soon to be redesigned, website both remotely and in person
+  impact_map: I translated the findings into specific user needs, then I created an impact map that visualises and prioritises site functions based on those needs
+  review: The whole team reviewed the interview material and the impact map. Some user needs were either modified or re-prioritized
+  wireframes: Based on the impact map and all our findings I then designed low fidelity wireframes in <a href="https://www.sketchapp.com" target="_blank">Sketch</a>. The wireframes were reviewed and iterated on in meetings or on Skype as clickable <a href="https://www.invisionapp.com" target="_blank">Invision</a> prototypes
+  image: /assets/images/case/redesign.png
+- case: redesign
+  title: Redesign
+  subtitle: Responsive website
+  date: 2017
+  client: A Swedish construction equipment manufacturer
+  team: The clients internal team, <a href="http://apartment5.se/">Apartment5</a>, Makeable Sthlm, Spoon agency
+  objective: Understand user needs better to inform the new site design
+  role: UX research, impact mapping, low-fi wireframes
+  description: The website started as a test campaign site in 2014 as part of an initiative from the Manufacturer that aims to bring green construction higher on the agenda of the whole industry. There's three parts to the initiative and as in most projects, doing research before you start building something will save you time and resources further on - so we needed to find out as much as possible about what the target group needs from a site like this. These are the three pillars that the initiative stands on
+  research: The Manufacturer funds green construction industry research such as carbon output calculators
+  media: By highlighting and showcasing positive green news from the construction industry in general the Manufacturer hopes to inspire and bring awareness
+  industry: The Manufacturer arranges events with international participation from industry competitors and collaborators to improve the green construction dialogue and hopefully in the end global environmental improvements.
+  scope: Scope definition and requirement specification involving all team members led by Apartment5
+  review_research: Review of existing site - I did a subjective UX best practice review, Apartment5 a technical review and Makeable Sthlm an SEO review. All team members contributes with inspiration and general research
+  user_research: The Manufacturer recruited a mixed group of researchers, construction industry and media professionals. I interviewed them and then performed usability tests on the existing, soon to be redesigned, website both remotely and in person
+  impact_map: I translated the findings into specific user needs, then I created an impact map that visualises and prioritises site functions based on those needs
+  review: The whole team reviewed the interview material and the impact map. Some user needs were either modified or re-prioritized
+  wireframes: Based on the impact map and all our findings I then designed low fidelity wireframes in <a href="https://www.sketchapp.com" target="_blank">Sketch</a>. The wireframes were reviewed and iterated on in meetings or on Skype as clickable <a href="https://www.invisionapp.com" target="_blank">Invision</a> prototypes
+  image: /assets/images/case/redesign.png

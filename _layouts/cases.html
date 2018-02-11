@@ -1,0 +1,82 @@
+---
+layout: default
+title:  {{page.title}}
+---
+<section class="fl w-100 pv6">
+  <div class="w-80 center tc pt5">
+    <img src="{{ page.image }}" alt="{{ page.title }}" class="h5">
+    <h1 class="ttu">{{ page.title }}</h1>
+    <h2 class="i dark-gray fw1 f7">{{ page.subtitle }}</h2>
+    <span class="db dark-gray fw1 f7">{{ page.date }}</span>
+    <div class="flex flex-wrap">
+      <div class="w-25">
+        <img src="/assets/images/icons/excavator.svg" class="h4 pb3">
+        <span class="db fw6 f6 ttu">Client</span>
+        <p class="i f6">{{ page.client }}</p>
+      </div>
+      <div class="w-25">
+        <img src="/assets/images/icons/team.svg" class="h4 pb3">
+        <span class="db fw6 f6 ttu">Team</span>
+        <p class="i f6">{{ page.team }}</p>
+      </div>
+      <div class="w-25">
+        <img src="/assets/images/icons/goal.svg" class="h4 pb3">
+        <span class="db fw6 f6 ttu">Objective</span>
+        <p class="i f6">{{ page.objective }}</p>
+      </div>
+      <div class="w-25">
+        <img src="/assets/images/icons/cog.svg" class="h4 pb3">
+        <span class="db fw6 f6 ttu">Role</span>
+        <p class="i f6">{{ page.role }}</p>
+      </div>
+    </div>
+  </div>
+  <div class="fl w-100 gradient-turquoise pv6">
+    <span class="db f5 fw6 ttu white tc">About</span>
+  </div>
+  <div class="fl w-100 pv6">
+    <div class="w-30 center">
+      <p class="f4 fw3 lh-copy">{{ page.description }}</p>
+      <div class="pv3">
+        <h6 class="f6 fw6 silver ttu pb2 ma0">Research</h6>
+        <p class="f5 fw3 lh-copy ma0">{{ page.research }}</p>
+      </div>
+      <div class="pv3">
+        <h6 class="f6 fw6 silver ttu pb2 ma0">Media</h6>
+        <p class="f5 fw3 lh-copy ma0">{{ page.media }}</p>
+      </div>
+      <div class="pv3">
+        <h6 class="f6 fw6 silver ttu pb2 ma0">Industry</h6>
+        <p class="f5 fw3 lh-copy ma0">{{ page.industry }}</p>
+      </div>
+    </div>
+  </div>
+  <div class="fl w-100 gradient-turquoise pv6">
+    <span class="db f5 fw6 ttu white tc">Process</span>
+  </div>
+  <div class="fl w-100 pv6 ph6">
+    <div class="w-40 center">
+      <ul class="list pa0 ma0">
+        <li class="timeline-item" headline="SCOPE">
+          <p>{{ page.scope }}</p>
+        </li>
+        <li class="timeline-item" headline="REVIEW & RESEARCH">
+          <p>{{ page.review_research }}</p>
+        </li>
+        <li class="timeline-item" headline="USER RESEARCH">
+          <p>{{ page.user_research }}</p>
+        </li>
+        <li class="timeline-item" headline="IMPACT MAP">
+          <p>{{ page.impact_map }}</p>
+        </li>
+        <li class="timeline-item" headline="MAPREVIEW">
+          <p>{{ page.review }}</p>
+        </li>
+        <li class="timeline-item" headline="WIREFRAMES">
+          <p>{{ page.wireframes }}</p>
+        </li>
+      </ul>
+      <p class="relative">Visual/UI design + development by Apt5 starts.<br> Case to be updated...</p>
+    </div>
+  </div>
+</section>

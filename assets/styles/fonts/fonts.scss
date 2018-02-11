@@ -1,8 +1,25 @@
-@import url('https://fonts.googleapis.com/css?family=Montserrat:400,700');
+@font-face {
+  font-family: gotham;
+  src: url("gotham/Gotham-Medium.otf") format("opentype");
+}
+@font-face {
+  font-family: gotham-italic;
+  src: url("gotham/Gotham-MediumItalic.otf") format("opentype");
+}
+@font-face {
+  font-family: gotham-bold;
+  src: url("gotham/Gotham-Bold.otf") format("opentype");
+}
 
-.montserrat {
-	font-family: 'Montserrat', sans-serif;
+.i {
+  font-family: 'gotham-italic', sans-serif;
+}
+.gotham {
+  font-family: 'gotham', sans-serif;
+}
+.fw6 {
+  font-family: 'gotham-bold', sans-serif;
 }
 button, input, optgroup, select, textarea {
-	font-family: 'Montserrat', sans-serif;
+	font-family: 'gotham', sans-serif;
 }

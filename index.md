@@ -6,7 +6,7 @@ title: UX consultant - Alexander af Ekenstam
   <div class="fl w-10"><br></div>
   <div class="fl w-40 pv6 ph5">
     <div class="fl w-20">
-      <img src="/assets/images/alexander-af-ekenstam.jpg" title="Alexander af Ekenstam" class="br-100 h3 w3">
+      <img src="/assets/images/alexander-af-ekenstam.jpg" alt="Alexander af Ekenstam" class="br-100 h3 w3">
     </div>
     <div class="fl w-80">
       <h1 class="f5 fw1">Hi, I'm a user experience consultant in central Stockholm.</h1>
@@ -20,7 +20,7 @@ title: UX consultant - Alexander af Ekenstam
   <div class="fl w-100 ph6 pv5">
     <div class="fl w-third pa2 tc">
       <img src="/assets/images/services/ux-research.svg" class="h3 pv2">
-      <h4 class="f7 ttu ma0 pv2">UX Research</h4>
+      <h4 class="fw6 f7 ttu ma0 pv2">UX Research</h4>
       <ul class="list i ma0 pa0">
         <li class="f6 pv1 lh-copy">Interviews</li>
         <li class="f6 pv1 lh-copy">Usability testing</li>
@@ -81,7 +81,7 @@ title: UX consultant - Alexander af Ekenstam
         <span class="db f7 ttu orange pv3">Read more</span>
       </div>
       <div class="fl w-50">
-        <img src="/assets/images/case/case.png">
+        <img src="/assets/images/case/redesign.png">
       </div>
     </div>
   </a>

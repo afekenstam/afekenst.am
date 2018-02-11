@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="136px" height="137px" viewBox="0 0 136 137" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-2">
+            <rect id="Rectangle-2" fill="#FFFFFF" x="0" y="0" width="136" height="136"></rect>
+            <g id="Group" transform="translate(40.000000, 76.000000)" stroke="#FF6600" stroke-width="1.5">
+                <path d="M56.9999774,28.2500177 C56.9999774,42.057093 45.8070959,53.2500586 31.9999786,53.2500586 C18.1928613,53.2500586 6.99997983,42.057093 6.99997983,28.2500177 C6.99997983,14.4429425 18.1928613,3.24997687 31.9999786,3.24997687 C45.8070959,3.24997687 56.9999774,14.4429425 56.9999774,28.2500177 Z" id="Shape" stroke-linejoin="round"></path>
+                <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="7.5000175" cy="28.2498925" r="7.5"></circle>
+                <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="43.5000175" cy="7.7500125" r="7.5"></circle>
+                <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="43.5000175" cy="52.2498925" r="7.5"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -15,6 +15,13 @@ collections:
     output: true
     permalink: /:name
 
+page_gen-dirs: true # uncomment, if you prefer to generate named folders
+page_gen:
+  - data: 'cases'
+    template: 'cases'
+    name: 'case'
+    dir: 'cases'
+
 # Build settings
 markdown: kramdown
 highlighter: rouge
