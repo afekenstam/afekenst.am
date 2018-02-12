@@ -15,8 +15,8 @@ title: UX consultant - Alexander af Ekenstam
   </div>
   <div class="fl w-50"></div>
 </div>
-<div class="fl w-100 bg-light-gray pa6">
-  <h3 class="f6 fw1 ttu tc">What I can contribute to your next project</h3>
+<div class="fl w-100 pv6 skew">
+  <h3 class="pt5 f6 fw1 ttu tc">What I can contribute to your next project</h3>
   <div class="fl w-100 ph6 pv5">
     <div class="fl w-third pa2 tc">
       <img src="/assets/images/services/ux-research.svg" class="h3 pv2">

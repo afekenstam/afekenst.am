@@ -36,3 +36,17 @@ a {
     border-left: 2px dotted #ddd;
   }
 }
+.skew {
+  position: relative;
+  padding-top: 110px;
+}
+.skew:before {
+  content: "";
+  position: absolute;
+  z-index: -1;
+  width: 100%;
+  height: 120%;
+  top: 0;
+  transform: skewY(-6deg);
+  background: #eee;
+}
