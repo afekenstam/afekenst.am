@@ -46,3 +46,11 @@ a {
   transform: skewY(-6deg);
   background: #eee;
 }
+@media only screen and (max-device-width: 480px) {
+  .timeline-item {
+    padding: 0em 3em 6em;
+  }
+  .timeline-item::before {
+    left: 3em;
+  }
+}
