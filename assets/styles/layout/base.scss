@@ -11,6 +11,9 @@ body {
 a {
   color: #000;
 }
+#active a {
+  color: red;
+}
 .timeline-item {
   padding: 1em 5em 6em;
   position: relative;

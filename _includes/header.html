@@ -10,13 +10,13 @@
   </label>
   <nav>
     <ul class="list pa0 tc absolute">
-      <li class="pv3">
+      <li class="pv3" {% if page.url == '/' %} id="active" {% endif %}>
         <a href="/" title="About" class="link i f3 fw3">About</a>
       </li>
-      <li class="pv3">
+      <li class="pv3" {% if page.url contains '/case' %} id="active" {% endif %}>
         <a href="/cases/redesign" title="Case" class="link i f3 fw3">Case</a>
       </li>
-      <li class="pv3">
+      <li class="pv3" {% if page.url == '/now' %} id="active" {% endif %}>
         <a href="/now" title="Now" class="link i f3 fw3">Now</a>
       </li>
     </ul>
@@ -28,14 +28,14 @@
       <a href="/" class="dib ttu link"><img src="/assets/images/alexander-af-ekenstam.svg" alt="Logo"></a>
     </div>
     <ul class="fl w-80 pv2 list lh-copy tr ma0">
-      <li class="dib ph3">
-        <a href="/" title="About" class="f7 fw1 tracked ttu hover-orange link">About</a>
+      <li class="dib ph3" {% if page.url == '/' %} id="active" {% endif %}>
+        <a href="/" title="About" class="gotham-extralight f7 fw1 tracked ttu hover-orange link">About</a>
       </li>
-      <li class="dib ph3">
-        <a href="/cases/redesign" title="Case" class="f7 fw1 tracked ttu hover-orange link">Case</a>
+      <li class="dib ph3" {% if page.url contains '/case' %} id="active" {% endif %}>
+        <a href="/cases/redesign" title="Case" class="gotham-extralight f7 fw1 tracked ttu hover-orange link">Case</a>
       </li>
-      <li class="dib ph3">
-        <a href="/now" title="Now" class="f7 fw1 tracked ttu hover-orange link">Now</a>
+      <li class="dib ph3" {% if page.url == '/now' %} id="active" {% endif %}>
+        <a href="/now" title="Now" class="gotham-extralight f7 fw1 tracked ttu hover-orange link">Now</a>
       </li>
     </ul>
   </nav>
