@@ -16,7 +16,7 @@ title: UX consultant - Alexander af Ekenstam
   <div class="fl w-50-ns"></div>
 </div>
 <div class="fl w-100 pv3 pv6-ns skew relative">
-  <h3 class="pt3 pt5-ns f7 f6-ns ttu tc gotham-extralight tracked">My contribution to your next project</h3>
+  <h3 class="pt3 pt5-ns f7 f6-ns ttu tc gotham-light tracked">My contribution to your next project</h3>
   <div class="fl w-100 ph5 ph6-ns pv4 pv5-ns">
     <div class="fl w-100 w-third-ns ph2 pv3 pa2-ns tc">
       <img src="/assets/images/services/ux-research.svg" class="h3 pv2">

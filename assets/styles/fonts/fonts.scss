@@ -4,6 +4,11 @@
 }
 
 @font-face {
+  font-family: "gotham-light";
+  src: url("fonts/gotham-light.woff") format('woff');
+}
+
+@font-face {
   font-family: "gotham-extralight";
   src: url("fonts/gotham-extralight.woff") format('woff');
 }
@@ -20,6 +25,10 @@
 
 .gotham-bold {
   font-family: 'gotham-bold', sans-serif;
+}
+
+.gotham-light {
+  font-family: 'gotham-light', sans-serif;
 }
 
 .gotham-extralight {
