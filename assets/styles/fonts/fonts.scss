@@ -1,25 +1,39 @@
 @font-face {
-  font-family: gotham;
-  src: url("gotham/Gotham-Medium.otf") format("opentype");
-}
-@font-face {
-  font-family: gotham-italic;
-  src: url("gotham/Gotham-MediumItalic.otf") format("opentype");
-}
-@font-face {
-  font-family: gotham-bold;
-  src: url("gotham/Gotham-Bold.otf") format("opentype");
+  font-family: "gotham-bold";
+  src: url("fonts/gotham-bold.woff") format('woff');
 }
 
-.i {
-  font-family: 'gotham-italic', sans-serif;
+@font-face {
+  font-family: "gotham-extralight";
+  src: url("fonts/gotham-extralight.woff") format('woff');
 }
-.gotham {
-  font-family: 'gotham', sans-serif;
+
+@font-face {
+  font-family: "sentinel-light";
+  src: url("fonts/sentinel-light.woff") format('woff');
 }
-.fw6 {
+
+@font-face {
+  font-family: "sentinel-light-italic";
+  src: url("fonts/sentinel-light-italic.woff") format('woff');
+}
+
+.gotham-bold {
   font-family: 'gotham-bold', sans-serif;
 }
+
+.gotham-extralight {
+  font-family: 'gotham-extralight', sans-serif;
+}
+
+.sentinel-light {
+  font-family: 'sentinel-light', sans-serif;
+}
+
+.sentinel-light-italic {
+  font-family: 'sentinel-light-italic', sans-serif;
+}
+
 button, input, optgroup, select, textarea {
-	font-family: 'gotham', sans-serif;
+	font-family: 'gotham-bold', sans-serif;
 }

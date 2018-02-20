@@ -1,7 +1,7 @@
 body {
   background-color: #fff;
   color: #000;
-  font-family: 'gotham', sans-serif;
+  font-family: 'gotham-extralight', sans-serif;
   font-size: 14px;
   line-height: 1.4;
   text-shadow: none;
@@ -18,7 +18,7 @@ a {
   &::before {
     content: attr(headline);
     position: absolute;
-    left: -15em;
+    left: -18em;
   }
   &::after {
     width: 40px;
