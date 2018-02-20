@@ -6,7 +6,7 @@ permalink: /now
 <section class="fl w-100 ph5 ph0-ns pv6">
   <div class="tl tc-ns pt3 pb4 pb6-ns">
     <h3 class="f4 fw6 silver ttu gotham-bold tracked">Now</h3>
-    <p class="f4 f3-ns fw3 sentinel-light-italic">Current work status + random stuff I find <br>interesting at the moment.</p>
+    <p class="f4 f3-ns fw3 sentinel-light-italic">Current work status + random stuff I find <br class="dn db-ns">interesting at the moment.</p>
     <p class="f7 fw6 silver ttu gotham-bold tracked">BASED ON <a href="https://nownownow.com/p/wMyz" target="_blank" class="silver">NOWNOWNOW</a></p>
   </div>
   <div class="w-100 w-40-ns center tl ph5-ns">
