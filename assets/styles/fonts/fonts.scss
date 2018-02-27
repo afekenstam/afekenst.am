@@ -1,26 +1,36 @@
 @font-face {
-  font-family: "gotham-bold";
-  src: url("fonts/gotham-bold.woff") format('woff');
+  font-family: 'gotham-bold';
+  src: url('fonts/gotham/gotham-bold.eot'), /* IE9 Compat Modes */
+       url('fonts/gotham/gotham-bold.woff') format('woff'), /* Pretty Modern Browsers */
+       url('fonts/gotham/gotham-bold.ttf')  format('truetype'), /* Safari, Android, iOS */
 }
 
 @font-face {
-  font-family: "gotham-light";
-  src: url("fonts/gotham-light.woff") format('woff');
+  font-family: 'gotham-light';
+  src: url('fonts/gotham/gotham-light.eot'),
+       url('fonts/gotham/gotham-light.woff') format('woff'),
+       url('fonts/gotham/gotham-light.ttf')  format('truetype'),
 }
 
 @font-face {
-  font-family: "gotham-extralight";
-  src: url("fonts/gotham-extralight.woff") format('woff');
+  font-family: 'gotham-extralight';
+  src: url('fonts/gotham/gotham-extralight.eot'),
+       url('fonts/gotham/gotham-extralight.woff') format('woff'),
+       url('fonts/gotham/gotham-extralight.ttf')  format('truetype'),
 }
 
 @font-face {
-  font-family: "sentinel-light";
-  src: url("fonts/sentinel-light.woff") format('woff');
+  font-family: 'sentinel-light';
+  src: url('fonts/sentinel/sentinel-light.eot'),
+       url('fonts/sentinel/sentinel-light.woff') format('woff'),
+       url('fonts/sentinel/sentinel-light.ttf')  format('truetype'),
 }
 
 @font-face {
-  font-family: "sentinel-light-italic";
-  src: url("fonts/sentinel-light-italic.woff") format('woff');
+  font-family: 'sentinel-light-italic';
+  src: url('fonts/sentinel/sentinel-light-italic.eot'),
+       url('fonts/sentinel/sentinel-light-italic.woff') format('woff'),
+       url('fonts/sentinel/sentinel-light-italic.ttf')  format('truetype'),
 }
 
 .gotham-bold {
