@@ -21,7 +21,7 @@ title: UX consultant - Alexander af Ekenstam
     <div class="fl w-100 w-third-ns ph2 pv3 pa2-ns tc">
       <img src="/assets/images/services/ux-research.svg" class="h3 pv2">
       <h4 class="f7 ttu ma0 pv2 gotham-bold tracked">UX Research</h4>
-      <ul class="list i ma0 pa0">
+      <ul class="list ma0 pa0">
         <li class="f6 f5-ns pv1 lh-copy sentinel-light-italic">Interviews</li>
         <li class="f6 f5-ns pv1 lh-copy sentinel-light-italic">Usability testing</li>
         <li class="f6 f5-ns pv1 lh-copy sentinel-light-italic">Data review</li>
@@ -30,7 +30,7 @@ title: UX consultant - Alexander af Ekenstam
     <div class="fl w-100 w-third-ns ph2 pv3 pa2-ns tc">
       <img src="/assets/images/services/visual-documentation.svg" class="h3 pv2">
       <h4 class="f7 ttu ma0 pv2 gotham-bold tracked">visual documentation</h4>
-      <ul class="list i ma0 pa0">
+      <ul class="list ma0 pa0">
         <li class="f6 f5-ns pv1 lh-copy sentinel-light-italic">Customer journey maps</li>
         <li class="f6 f5-ns pv1 lh-copy sentinel-light-italic">Impact maps</li>
         <li class="f6 f5-ns pv1 lh-copy sentinel-light-italic">Service blueprint</li>
@@ -39,7 +39,7 @@ title: UX consultant - Alexander af Ekenstam
     <div class="fl w-100 w-third-ns ph2 pv3 pa2-ns tc">
       <img src="/assets/images/services/rapid-prototyping.svg" class="h3 pv2">
       <h4 class="f7 ttu ma0 pv2 gotham-bold tracked">rapid prototyping</h4>
-      <ul class="list i ma0 pa0">
+      <ul class="list ma0 pa0">
         <li class="f6 f5-ns pv1 lh-copy sentinel-light-italic">Low-fi design</li>
         <li class="f6 f5-ns pv1 lh-copy sentinel-light-italic">Interactive wireframes</li>
         <li class="f6 f5-ns pv1 lh-copy sentinel-light-italic">Proof of concept</li>
@@ -50,21 +50,21 @@ title: UX consultant - Alexander af Ekenstam
     <div class="fl w-100 w-third-ns ph2 pv3 pa2-ns tc">
       <img src="/assets/images/services/experience.svg" class="h3 pv2">
       <h4 class="f7 ttu ma0 pv2 gotham-bold tracked">Experience</h4>
-      <ul class="list i ma0 pa0">
+      <ul class="list ma0 pa0">
         <li class="f6 f5-ns pv1 lh-copy sentinel-light-italic">Finding solutions and solving problems in digital projects</li>
       </ul>
     </div>
     <div class="fl w-100 w-third-ns ph2 pv3 pa2-ns tc">
       <img src="/assets/images/services/coffee.svg" class="h3 pv2">
       <h4 class="f7 ttu ma0 pv2 gotham-bold tracked">coffees/day</h4>
-      <ul class="list i ma0 pa0">
+      <ul class="list ma0 pa0">
         <li class="f6 f5-ns pv1 lh-copy sentinel-light-italic">My coffee habits won't break your budget</li>
       </ul>
     </div>
     <div class="fl w-100 w-third-ns ph2 pv3 pa2-ns tc">
       <img src="/assets/images/services/curiosity.svg" class="h3 pv2">
       <h4 class="f7 ttu ma0 pv2 gotham-bold tracked">curiosity</h4>
-      <ul class="list i ma0 pa0">
+      <ul class="list ma0 pa0">
         <li class="f6 f5-ns pv1 lh-copy sentinel-light-italic">I'm motivated by understanding your customer/users needs and how they can improve your business</li>
       </ul>
     </div>
