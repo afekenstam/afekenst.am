@@ -1,34 +1,4 @@
-[
-  {
-    "name": "Usertribe",
-    "url": "https://usertribe.com"
-  },
-  {
-    "name": "Rodolfo",
-    "url": "https://rodolfo.se/"
-  },
-  {
-    "name": "Arena Group",
-    "url": "http://www.arenagroup.eu/"
-  },
-  {
-    "name": "Apt5",
-    "url": "http://apartment5.se/"
-  },
-  {
-    "name": "Anarchy&Order",
-    "url": "http://anarchyorder.se/"
-  },
-  {
-    "name": "Gullers",
-    "url": "https://gullers.se/"
-  },
-  {
-    "name": "Fröjd",
-    "url": "https://www.frojd.se/"
-  },
-  {
-    "name": "Grau",
-    "url": "http://grau.se/"
-  }
-]
+{
+  "name": "test",
+  "url": "https://afekenstam.netlify.com"
+}
