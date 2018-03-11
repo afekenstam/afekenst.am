@@ -1,0 +1,74 @@
+[
+  {
+    "name": "UX Research",
+    "picture": "/assets/images/services/ux-research.svg",
+    "items": [
+      {
+        "title": "Interviews"
+      },
+      {
+        "title": "Usability testing"
+      },
+      {
+        "title": "Data review"
+      }
+    ]
+  },
+  {
+    "name": "visual documentation",
+    "picture": "/assets/images/services/visual-documentation.svg",
+    "items": [
+      {
+        "title": "Customer journey maps"
+      },
+      {
+        "title": "Impact maps"
+      },
+      {
+        "title": "Service blueprint"
+      }
+    ]
+  },
+  {
+    "name": "rapid prototyping",
+    "picture": "/assets/images/services/rapid-prototyping.svg",
+    "items": [
+      {
+        "title": "Low-fi design"
+      },
+      {
+        "title": "Interactive wireframes"
+      },
+      {
+        "title": "Proof of concept"
+      }
+    ]
+  },
+  {
+    "name": "Experience",
+    "picture": "/assets/images/services/experience.svg",
+    "items": [
+      {
+        "title": "Finding solutions and solving problems in digital projects"
+      }
+    ]
+  },
+  {
+    "name": "coffees/day",
+    "picture": "/assets/images/services/coffee.svg",
+    "items": [
+      {
+        "title": "My coffee habits won't break your budget"
+      }
+    ]
+  },
+  {
+    "name": "curiosity",
+    "picture": "/assets/images/services/curiosity.svg",
+    "items": [
+      {
+        "title": "I'm motivated by understanding your customer/users needs and how they can improve your business"
+      }
+    ]
+  }
+]

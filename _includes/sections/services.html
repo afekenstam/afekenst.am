@@ -1,0 +1,16 @@
+<div class="fl w-100 pv3 pv6-ns skew relative">
+  <h3 class="pt3 pt5-ns f7 f6-ns ttu tc gotham-light tracked">My contribution to your next project</h3>
+  <div class="fl w-100 ph5 ph6-ns pv4 pv5-ns">
+    {% for service in site.data.services %}
+    <div class="fl w-100 w-third-ns ph2 pv3 pv5-ns tc">
+      <img src="{{ service.picture }}" class="h3 pv2">
+      <h4 class="f7 ttu ma0 pv2 gotham-bold tracked">{{ service.name }}</h4>
+      <ul class="list ma0 pa0">
+        {% for item in service.items %}
+          <li class="f6 f5-ns pv1 lh-copy sentinel-light-italic">{{ item.title }}</li>
+        {% endfor %}
+      </ul>
+    </div>
+    {% endfor %}
+  </div>
+</div>

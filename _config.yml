@@ -2,6 +2,8 @@ title: UX consultant - Alexander af Ekenstam
 email: alex@afekenst.am
 baseurl: ""
 url: "https://afekenst.am"
+phone: +46702253880
+phone_formatted: +46 70-225 38 80
 
 # Meta
 description: I collaborate with teams to create and improve the user experience of websites/apps by aligning the why, what and how with user needs.
@@ -9,6 +11,7 @@ keywords: user experience, user research, ux, rapid prototyping, wireframes, sto
 image: https://afekenst.am/assets/images/meta/alexander-af-ekenstam.jpg
 fb_app_id: 257953674358265
 twitter: alexafekenstam
+linkedin: alexanderafekenstam
 
 collections:
   pages:

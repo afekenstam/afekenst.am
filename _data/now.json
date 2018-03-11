@@ -1,4 +1,44 @@
-{
-  "work": "Just finished collaborating on a digital platform pre-study for a healthy fast food chain. Available for new projects.",
-  "link": "alex@afekenst.am"
-}
+[
+  {
+    "type": "work",
+    "picture": "/assets/images/icons/work.svg",
+    "body": "Just finished collaborating on a digital platform pre-study for a healthy fast food chain. Available for new projects.",
+    "cta": "Email me",
+    "cta_url": "mailto:alex@afekenst.am",
+  },
+  {
+    "type": "book",
+    "picture": "/assets/images/icons/books.svg",
+    "body": "Ryan Holiday - The Perennial Seller",
+    "cta": "Audible.com",
+    "cta_url": "https://www.audible.com/pd/Business/Perennial-Seller-Audiobook/B0733PW1CR?ref=a_a_search_c3_lProduct_1_1&pf_rd_p=e81b7c27-6880-467a-b5a7-13cef5d729fe&pf_rd_r=STNVS5Q8RS9AWFD2P7XG&",
+  },
+  {
+    "type": "Podcast",
+    "picture": "/assets/images/icons/podcast.svg",
+    "body": "On Margins",
+    "cta": "Craigmod.com",
+    "cta_url": "https://craigmod.com/onmargins/",
+  },
+  {
+    "type": "tech",
+    "picture": "/assets/images/icons/tech.svg",
+    "body": "Coin market map",
+    "cta": "coinmarket.com",
+    "cta_url": "https://coinmarketcap.com",
+  },
+  {
+    "type": "Article",
+    "picture": "/assets/images/icons/text.svg",
+    "body": "Strategy in rapid innovation",
+    "cta": "nature.com",
+    "cta_url": "https://www.nature.com/articles/s41467-017-02042-w",
+  },
+  {
+    "type": "Video",
+    "picture": "/assets/images/icons/video.svg",
+    "body": "A16z",
+    "cta": "youtube.com",
+    "cta_url": "https://www.youtube.com/channel/UC9cn0TuPq4dnbTY-CBsm8XA",
+  },
+]

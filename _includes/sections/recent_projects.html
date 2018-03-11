@@ -1,0 +1,8 @@
+<div class="fl w-100 pv4 pv5-ns">
+  <h5 class="f7 ttu tc pt6 gotham-bold tracked">Recent projects</h5>
+  <div class="flex flex-wrap pv4-ns">
+    {% for project in site.data.projects %}
+      <img src="{{ project.picture }}" alt="{{ project.name }}" class="w-50 w-25-ns h4 h5-ns">
+    {% endfor %}
+  </div>
+</div>

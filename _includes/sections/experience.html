@@ -1,0 +1,11 @@
+<div class="fl w-100 pv4 pv5-ns ph5 ph6-ns">
+  <h6 class="f6 silver ttu gotham-bold tracked">Experience</h6>
+  <ul class="list pa0 ma0">
+    {% for experience in site.data.experiences %}
+    <li class="pv3">
+      <h3 class="f4 f3-ns fw4 ma0 pb1 pb2 sentinel-light-italic">{{ experience.name }}</h3>
+      <span class="db silver f7 gotham-bold tracked">{{ experience.period }}</span>
+    </li>
+    {% endfor %}
+  </ul>
+</div>

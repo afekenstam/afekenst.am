@@ -1,0 +1,34 @@
+[
+  {
+    "name": "volvo",
+    "picture": "/assets/images/companies/volvo.svg"
+  },
+  {
+    "name": "swedavia",
+    "picture": "/assets/images/companies/swedavia.svg"
+  },
+  {
+    "name": "forsvarsmakten",
+    "picture": "/assets/images/companies/forsvarsmakten.svg"
+  },
+  {
+    "name": "king",
+    "picture": "/assets/images/companies/king.svg"
+  },
+  {
+    "name": "motorola",
+    "picture": "/assets/images/companies/motorola.svg"
+  },
+  {
+    "name": "lnu",
+    "picture": "/assets/images/companies/lnu.svg"
+  },
+  {
+    "name": "wallin",
+    "picture": "/assets/images/companies/wallin.svg"
+  },
+  {
+    "name": "samhall",
+    "picture": "/assets/images/companies/samhall.svg"
+  }
+]

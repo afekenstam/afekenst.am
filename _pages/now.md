@@ -16,35 +16,13 @@ permalink: /now
       <p class="f4 fw3 sentinel-light">Just finished collaborating on a digital platform pre-study for a healthy fast food chain. Available for new projects.</p>
       <span class="db f7 silver ttu gotham-bold tracked">Email me</span>
     </a>
-    <a href="https://www.audible.com/pd/Business/Perennial-Seller-Audiobook/B0733PW1CR?ref=a_a_search_c3_lProduct_1_1&pf_rd_p=e81b7c27-6880-467a-b5a7-13cef5d729fe&pf_rd_r=STNVS5Q8RS9AWFD2P7XG&" class="db link pv4 pv5-ns" target="_blank">
-      <img src="/assets/images/icons/books.svg" class="h2 pr2 dib v-mid">
-      <h5 class="f4 fw5 ttu dib v-mid ma0 gotham-extralight">Book</h5>
-      <p class="f4 fw3 sentinel-light">Ryan Holiday - The Perennial Seller</p>
-      <span class="db f7 silver ttu gotham-bold tracked">Audible.com</span>
-    </a>
-    <a href="https://craigmod.com/onmargins/" class="db link pv4 pv5-ns" target="_blank">
-      <img src="/assets/images/icons/podcast.svg" class="h2 pr2 dib v-mid">
-      <h5 class="f4 fw5 ttu dib v-mid ma0 gotham-extralight">Podcast</h5>
-      <p class="f4 fw3 sentinel-light">On Margins</p>
-      <span class="db f7 silver ttu gotham-bold tracked">Craigmod.com</span>
-    </a>
-    <a href="https://coinmarketcap.com/" class="db link pv4 pv5-ns" target="_blank">
-      <img src="/assets/images/icons/tech.svg" class="h2 pr2 dib v-mid">
-      <h5 class="f4 fw5 ttu dib v-mid ma0 gotham-extralight">Tech</h5>
-      <p class="f4 fw3 sentinel-light">Coin market map</p>
-      <span class="db f7 silver ttu gotham-bold tracked">coinmarket.com</span>
-    </a>
-    <a href="https://www.nature.com/articles/s41467-017-02042-w" class="db link pv4 pv5-ns" target="_blank">
-      <img src="/assets/images/icons/text.svg" class="h2 pr2 dib v-mid">
-      <h5 class="f4 fw5 ttu dib v-mid ma0 gotham-extralight">Article</h5>
-      <p class="f4 fw3 sentinel-light">Strategy in rapid innovation</p>
-      <span class="db f7 silver ttu gotham-bold tracked">nature.com</span>
-    </a>
-    <a href="https://www.youtube.com/channel/UC9cn0TuPq4dnbTY-CBsm8XA" class="db link pv4 pv5-ns" target="_blank">
-      <img src="/assets/images/icons/video.svg" class="h2 pr2 dib v-mid">
-      <h5 class="f4 fw5 ttu dib v-mid ma0 gotham-extralight">Video</h5>
-      <p class="f4 fw3 sentinel-light">A16z</p>
-      <span class="db f7 silver ttu gotham-bold tracked">youtube.com</span>
-    </a>
+    {% for item in site.data.now %}
+      <a href="{{ item.cta_url }}" rel="nofollow" title="{{ item.cta }}" class="db link pv4 pv5-ns" target="_blank">
+        <img src="{{ item.picture }}" alt="{{ item.cta }}" class="h2 pr2 dib v-mid">
+        <h5 class="f4 fw5 ttu dib v-mid ma0 gotham-extralight">{{ item.type }}</h5>
+        <p class="f4 fw3 sentinel-light">{{ item.body }}</p>
+        <span class="db f7 silver ttu gotham-bold tracked">{{ item.cta }}</span>
+      </a>
+    {% endfor %}
   </div>
 </section>

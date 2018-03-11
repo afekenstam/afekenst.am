@@ -1,0 +1,9 @@
+<div class="fl w-100 gradient-turquoise pv5 gotham-bold tracked">
+  <ul class="w-100 w-80-ns center flex flex-wrap list pv0 pv5-ns">
+    {% for partner in site.data.partners %}
+      <li class="w-100 w-25-ns pv3">
+        <a href="{{ partner.url }}" rel="nofollow" title="{{ partner.name }}" class="white link ttu f4 fw6">{{ partner.name }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+</div>
