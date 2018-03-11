@@ -11,8 +11,23 @@ collections: # A list of collections the CMS should be able to edit
     slug: "{{slug}}"
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
-      - {label: "Title", name: "title", widget: "string", tagname: "h1"}
-      - {label: "Body", name: "body", widget: "markdown"}
+      - { label: "Title", name: "title", widget: "string", tagname: "h1"}
+      - { label: "Body", name: "body", widget: "markdown"}
     meta:
-      - {label: "Image", name: "image", widget: "image", required: false}
-      - {label: "SEO Description", name: "description", widget: "text"}
+      - { label: "Image", name: "image", widget: "image", required: false }
+      - { label: "SEO Description", name: "description", widget: "text" }
+  - name: "json"
+    label: "JSON"
+    files:
+      - name: "projects"
+        label: "Projects"
+        file: "_data/projects.json"
+        fields:
+          - { label: Name, name: name, widget: string}
+          - { label: Picture, name: picture, widget: image}
+      - name: "partners"
+        label: "Partners"
+        file: "_data/partners.json"
+        fields:
+          - { label: Name, name: name, widget: string}
+          - { label: URL, name: url, widget: string}
