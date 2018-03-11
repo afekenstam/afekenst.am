@@ -10,12 +10,6 @@ permalink: /now
     <p class="f7 fw6 silver ttu gotham-bold tracked">BASED ON <a href="https://nownownow.com/p/wMyz" target="_blank" class="silver">NOWNOWNOW</a></p>
   </div>
   <div class="w-100 w-40-ns center tl ph5-ns">
-    <a href="mailto:alex@afekenst.am" class="db link pv4 pv5-ns" target="_blank">
-      <img src="/assets/images/icons/work.svg" class="h2 pr2 dib v-mid">
-      <h5 class="f4 fw5 ttu dib v-mid ma0 gotham-extralight">Work</h5>
-      <p class="f4 fw3 sentinel-light">Just finished collaborating on a digital platform pre-study for a healthy fast food chain. Available for new projects.</p>
-      <span class="db f7 silver ttu gotham-bold tracked">Email me</span>
-    </a>
     {% for item in site.data.now %}
       <a href="{{ item.cta_url }}" rel="nofollow" title="{{ item.cta }}" class="db link pv4 pv5-ns" target="_blank">
         <img src="{{ item.picture }}" alt="{{ item.cta }}" class="h2 pr2 dib v-mid">
